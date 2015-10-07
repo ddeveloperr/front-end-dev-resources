@@ -1,10 +1,6 @@
 ### front-end-dev-resources
 # Front End Development Resources 2015
 
-# Frontend Development
-
-
-
 -------------------------------------------------------
 
 + Guides
