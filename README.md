@@ -3,11 +3,7 @@
 
 # Frontend Development
 
-**Attention**: the list was moved to 
 
-[https://github.com/dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
-
-This page is not maintained anymore, please update your bookmarks.
 
 -------------------------------------------------------
 
