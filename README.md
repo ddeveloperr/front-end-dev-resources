@@ -1,5 +1,5 @@
 ### front-end-dev-resources
-# Front End Development Resources 2015
+# Front End Development Resources
 
 -------------------------------------------------------
 
