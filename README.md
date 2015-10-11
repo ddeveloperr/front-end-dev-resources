@@ -3,30 +3,7 @@
 
 -------------------------------------------------------
 
-+ Guides
-    + [Hack Design](http://hackdesign.org/courses/)
-    + [Designer School](http://designer-school.com/)
-    + [TheExpressiveWeb](http://beta.theexpressiveweb.com/)
-    + [Talks To Help You Become A Better Front-End Engineer In 2013](http://www.smashingmagazine.com/2012/12/22/talks-to-help-you-become-a-better-front-end-engineer-in-2013/)
-    + [Web Development Teaching Materials](http://www.teaching-materials.org/)
-+ Architecture
-    + [BEM](http://bem.info/method/)
-    + [Atomic Design](http://bradfrostweb.com/blog/post/atomic-web-design/)
-        + [Github](https://github.com/bradfrost/patternlab)
-        + [Video](http://www.besquare.me/session/atomic-design/) + [Slides](http://de.slideshare.net/bradfrostweb/atomic-design)
-        + [Atomic Design: Some Thoughts and One Example](http://15four.com/2013/05/29/atomic-design-some-thoughts-and-one-example/)
-        + [Atomic Design Makes Me Feel Like a Chemist](http://notebookandpenguin.com/atomic-design-makes-me-feel-like-a-chemist/)
-    + [Aura](http://aurajs.github.io/aura/) a is an event-driven architecture for developing scalable applications using reusable widgets.
-    + [Terrific.js](http://terrifically.org/) provides you a Scalable Javascript Architecture, that helps you to modularize your jQuery/Zepto Code in a very intuitive and natural way
-    + [Patterns For Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript/)
-    + [Video: Nicholas Zakas: Scalable JavaScript Application Architecture](http://www.youtube.com/watch?v=vXjVFPosQHw)
-    + [Book: Learning JavaScript Design Patterns](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/)
-    + [Book: Eloquent JavaScript](http://eloquentjavascript.net/contents.html)
-    + [Book: Single page apps in depth](http://singlepageappbook.com/index.html)
-    + [jQuery Application Architecture Chart](http://addyosmani.com/resources/toolschart/chart.pdf)
-    + [How To Manage Large jQuery Apps](http://www.slideshare.net/SlexAxton/how-to-manage-large-jquery-apps)
-    + [Scalable and Modular Architecture for CSS](http://smacss.com/)
-    + [Comparison between different Observer Pattern implementations](https://github.com/millermedeiros/js-signals/wiki/Comparison-between-different-Observer-Pattern-implementations)
+
 + Workflow
     + [Vid: Javascript Development Workflow of 2013 by Paul Irish](http://www.youtube.com/watch?v=f7AU2Ozu8eo) + [Slides](http://dl.dropboxusercontent.com/u/39519/talks/fluent/index.html)
     + [Yeoman](http://yeoman.io/) is a robust and opinionated set of tools, libraries, and a workflow that can help developers quickly build beautiful, compelling web apps.
@@ -760,3 +737,31 @@
     + [simpleCart.js](http://simplecartjs.org/)
     + [Aware.js](http://xoxco.com/projects/code/aware/) is a simple jQuery plugin that allows a site to customize and personalize the display of content based on a reader's behavior without requiring login, authentication, or any server-side processing.
     + [How to directly upload files to Amazon S3 from your client side web app](http://codeartists.com/post/36892733572/how-to-directly-upload-files-to-amazon-s3-from-your)
+    + 
+    + 
+
+*** Design
++ Guides
+    + [Hack Design](http://hackdesign.org/courses/)
+    + [Designer School](http://designer-school.com/)
+    + [TheExpressiveWeb](http://beta.theexpressiveweb.com/)
+    + [Talks To Help You Become A Better Front-End Engineer In 2013](http://www.smashingmagazine.com/2012/12/22/talks-to-help-you-become-a-better-front-end-engineer-in-2013/)
+    + [Web Development Teaching Materials](http://www.teaching-materials.org/)
++ Architecture
+    + [BEM](http://bem.info/method/)
+    + [Atomic Design](http://bradfrostweb.com/blog/post/atomic-web-design/)
+        + [Github](https://github.com/bradfrost/patternlab)
+        + [Video](http://www.besquare.me/session/atomic-design/) + [Slides](http://de.slideshare.net/bradfrostweb/atomic-design)
+        + [Atomic Design: Some Thoughts and One Example](http://15four.com/2013/05/29/atomic-design-some-thoughts-and-one-example/)
+        + [Atomic Design Makes Me Feel Like a Chemist](http://notebookandpenguin.com/atomic-design-makes-me-feel-like-a-chemist/)
+    + [Aura](http://aurajs.github.io/aura/) a is an event-driven architecture for developing scalable applications using reusable widgets.
+    + [Terrific.js](http://terrifically.org/) provides you a Scalable Javascript Architecture, that helps you to modularize your jQuery/Zepto Code in a very intuitive and natural way
+    + [Patterns For Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript/)
+    + [Video: Nicholas Zakas: Scalable JavaScript Application Architecture](http://www.youtube.com/watch?v=vXjVFPosQHw)
+    + [Book: Learning JavaScript Design Patterns](http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/)
+    + [Book: Eloquent JavaScript](http://eloquentjavascript.net/contents.html)
+    + [Book: Single page apps in depth](http://singlepageappbook.com/index.html)
+    + [jQuery Application Architecture Chart](http://addyosmani.com/resources/toolschart/chart.pdf)
+    + [How To Manage Large jQuery Apps](http://www.slideshare.net/SlexAxton/how-to-manage-large-jquery-apps)
+    + [Scalable and Modular Architecture for CSS](http://smacss.com/)
+    + [Comparison between different Observer Pattern implementations](https://github.com/millermedeiros/js-signals/wiki/Comparison-between-different-Observer-Pattern-implementations)
